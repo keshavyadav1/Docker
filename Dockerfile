@@ -1,0 +1,2 @@
+FROM openjdk
+EXPOSE 9090
